@@ -6,7 +6,8 @@ src = "src"
 title = "Aptos Move 语言圣经"
 
 [output.html]
-additional-css = ["theme/theme.css"]
+additional-css = ["src/theme/theme.css"]
+additional-js = ["src/theme/giscus.js"]
 
 [output.html.fold]
 enable = true

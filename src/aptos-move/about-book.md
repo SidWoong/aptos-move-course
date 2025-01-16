@@ -12,4 +12,19 @@
 ### 这仅仅才是刚开始，速度更新ing～ 🫵 🫵 🫵
 
 
+<script src="https://giscus.app/client.js"
+        data-repo="SidWoong/aptos-move-course"
+        data-repo-id="R_kgDONrHv3g"
+        data-category-id="DIC_kwDONrHv3s4CmDfU"
+        data-mapping="Aptos Move 技术交流"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="1"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
 
