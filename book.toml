@@ -1,0 +1,15 @@
+[book]
+authors = ["Cmesen111"]
+language = "zh-CN"
+multilingual = true
+src = "src"
+title = "Aptos Move 语言圣经"
+
+[output.html]
+additional-css = ["theme/theme.css"]
+
+[output.html.fold]
+enable = true
+
+[output.html.search]
+enable = true
